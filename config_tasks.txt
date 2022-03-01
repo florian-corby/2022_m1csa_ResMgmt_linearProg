@@ -1,0 +1,7 @@
+# task ID, arrival date, CPU requirement, RAM requirement (GB), deadline
+0,         0,            0.2,             NA,                   NA
+1,         0,            0.5,             NA,                   NA
+2,         0,            0.3,             NA,                   NA
+3,         0,            0.6,             NA,                   NA
+4,         0,            0.67,            NA,                   NA
+5,         0,            0.25,            NA,                   NA
